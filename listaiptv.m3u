@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png"
+group-title="CANALES INTERNACIONALES",ECUADOR TV 
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/1200px-Se%C3%B1al_Institucional_logo.svg.png"
+group-title="CANALES COLOMBIANOS",CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+
+
+#EXTINF:-1 tv-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cpac.ca%2F&psig=AOvVaw07n_8tUbwDhoup6CrxvzaL&ust=1725694353985000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjYqcnmrYgDFQAAAAAdAAAAABAE"
+group-title="CANALES INTERNACIONALES",GOBIERNO CANADA
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track=600000.m3u8
+
+
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/800px-Global_News.svg.png"
+group-title="CANALES INTERNACIONALES",NOTICIAS
+https://dai.google.com/linear/hls/pa/event/K8ZZN35nQA2N_hskrUB2oQ/stream/49d1819e-cafe-4b26-bcb1-7a3e137410bf:CHS/variant/9dfb18fd70dfe3a8e18d6a08525ecd44/bandwidth/3027000.m3u8
